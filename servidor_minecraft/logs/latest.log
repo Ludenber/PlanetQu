@@ -4039,3 +4039,7 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [08Apr2025 21:46:23.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luxenberg has made the advancement [Ice and Fire]
 [08Apr2025 21:46:23.398] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luxenberg has completed the challenge [The Undead]
 [08Apr2025 21:49:37.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luxenberg has made the advancement [Alex's Mobs]
+[08Apr2025 21:58:03.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luxenberg has made the advancement [Easter Egg Searcher]
+[08Apr2025 21:58:32.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luxenberg has made the advancement [Getting an Upgrade]
+[08Apr2025 22:01:36.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Luxenberg lost connection: Disconnected
+[08Apr2025 22:01:36.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Luxenberg left the game
